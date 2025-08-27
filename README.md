@@ -22,8 +22,10 @@ This dataset offers a comprehensive historical record of Netflix's stock price m
 
 ### Introduction
 
-This dataset contains detailed information about mobile game players and their purchase behaviour. The dataset focuses on the classic "whales vs minnows" segmentation model, providing insights into differente player spending categories and their gaming habits. 
+This dataset contains detailed information about mobile game players and their purchase behaviour. The dataset focuses on the classic "whales vs minnows" segmentation model, providing insights into differente player spending categories and their gaming habits.
+
 The mobile gaming industry is different from other video game industry due to the fact that it's heavily focused on microtransactions. Based on the amount of money invested on the game, a player can be considered:
+
 	- Free to Play Player: As it's name says, the player doesn't invest any money on the game.
 	- Minnow: The player eventually invest a small amount of money.
 	- Dolphin: The player usually invests money on the game.
