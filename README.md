@@ -2,7 +2,7 @@
 
 Uploading personal PowerBI dashboards. These dashboards are made to improve my analytical skills.
 
-## Netflix Stock Price History [Dataset](https://www.kaggle.com/datasets/adilshamim8/netflix-stock-price-history/data)
+## Netflix Stock Price History ([Dataset](https://www.kaggle.com/datasets/adilshamim8/netflix-stock-price-history/data))
 
 ### Introduction
 
@@ -18,7 +18,7 @@ This dataset offers a comprehensive historical record of Netflix's stock price m
 - **Adj Close** – Closing price adjusted for splits and dividends
 - **Volume** – Number of shares traded that day
 - 
-## Mobile Games In-App Purchases [Dataset](https://www.kaggle.com/datasets/pratyushpuri/mobile-game-in-app-purchases-dataset-2025)
+## Mobile Games In-App Purchases ([Dataset](https://www.kaggle.com/datasets/pratyushpuri/mobile-game-in-app-purchases-dataset-2025))
 
 ### Introduction
 
