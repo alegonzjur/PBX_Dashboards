@@ -1,0 +1,82 @@
+{
+  "name": "Uber Professional Theme",
+  "dataColors": [
+    "#000000",
+    "#1FBAD3", 
+    "#FFFFFF",
+    "#FF6B6B",
+    "#4ECDC4",
+    "#45B7D1",
+    "#96CEB4",
+    "#FECA57",
+    "#FF9FF3",
+    "#54A0FF"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#000000",
+  "tableAccent": "#1FBAD3",
+  "good": "#00A86B",
+  "neutral": "#FFC107", 
+  "bad": "#FF0000",
+  "maximum": "#1FBAD3",
+  "center": "#FFFFFF",
+  "minimum": "#000000",
+  "null": "#C0C0C0",
+  "textClasses": {
+    "callout": {
+      "fontSize": 45,
+      "fontFace": "Segoe UI",
+      "color": "#000000"
+    },
+    "title": {
+      "fontSize": 24,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#000000"
+    },
+    "header": {
+      "fontSize": 18,
+      "fontFace": "Segoe UI Semibold", 
+      "color": "#000000"
+    },
+    "label": {
+      "fontSize": 12,
+      "fontFace": "Segoe UI",
+      "color": "#605E5C"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "color": {"solid": {"color": "#FFFFFF"}},
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "color": {"solid": {"color": "#E5E5E5"}},
+            "show": false
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "background": [
+          {
+            "color": {"solid": {"color": "#F8F9FA"}},
+            "transparency": 5
+          }
+        ],
+        "border": [
+          {
+            "color": {"solid": {"color": "#1FBAD3"}},
+            "show": true,
+            "radius": 8
+          }
+        ]
+      }
+    }
+  }
+}
