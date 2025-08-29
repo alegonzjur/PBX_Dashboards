@@ -2,7 +2,7 @@
 
 Uploading personal PowerBI dashboards. These dashboards are made to improve my PowerBI abilities and analytical skills.
 
-## US Houses Sales (Dataset)[]
+## US Houses Sales [Dataset]()
 
 ### Introduction
 
@@ -32,7 +32,7 @@ Classic dataset for the begginers in data analysis and predictive models. It con
 It's a good dataset to start in data analysis thanks to all the different features that it has and it's easy understanding of the concept. Some conclusions that i've taken from the dashboard are that average price doesn't vary greatly according to the different values of certain variables, such as bathroom number, bedroom number, property type, state... The SQFT Price is almost similar in every city, and construction year does not follow a pattern in the final price. It's difficult to extract key information, but for getting started into data anaylsis, it is an acceptable dataset.
 
 
-## Netflix Stock Price History (Dataset)[https://www.kaggle.com/datasets/adilshamim8/netflix-stock-price-history/data]
+## Netflix Stock Price History [Dataset](https://www.kaggle.com/datasets/adilshamim8/netflix-stock-price-history/data)
 
 ### Introduction
 
@@ -52,7 +52,7 @@ This dataset offers a comprehensive historical record of Netflix's stock price m
 
 This kind of datasets need more administrative or stock experience to take away significant findings. You can see clearly in charts how much the company has grown, and it's ups and downs, which can be related to actions taken by the company, such as shared accounts block, or worldwide moments, like COVID lockdown. The dataset is focused on the stock value, therefore there aren't much conclusions to rescue.
 
-## Mobile Games In-App Purchases (Dataset)[https://www.kaggle.com/datasets/pratyushpuri/mobile-game-in-app-purchases-dataset-2025]
+## Mobile Games In-App Purchases [Dataset](https://www.kaggle.com/datasets/pratyushpuri/mobile-game-in-app-purchases-dataset-2025)
 
 ### Introduction
 
@@ -84,7 +84,7 @@ The main point of this dataset is to compare whales vs minnows/dolphins in mobil
 
 Very interesting dataset about a type of market that people do not normally pay attention to. It has been very fun dataset to work to.
 
-## Uber Data Analytics (Dataset)[https://www.kaggle.com/datasets/yashdevladdha/uber-ride-analytics-dashboard?select=ncr_ride_bookings.csv]
+## Uber Data Analytics [Dataset](https://www.kaggle.com/datasets/yashdevladdha/uber-ride-analytics-dashboard?select=ncr_ride_bookings.csv)
 
 
 ### Introduction
