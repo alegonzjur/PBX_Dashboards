@@ -29,18 +29,18 @@ Each entry of the dataset includes the following columns:
 
 ## Dashboard
 
-![[Summary.gif]]
+<image src="images\Summary.gif" alt="Summary">
 
 ## Pages
 
 
-![[d_p1.png]]
+<image src="images\d_p1.png" alt="Page1">
 
-![[d_p2.png]]
+<image src="images\d_p2.png" alt="Page2">
 
-![[d_p3.png]]
+<image src="images\d_p3.png" alt="Page3">
 
-![[d_p4.png]]
+<image src="images\d_p4.png" alt="Page4">
 
 ## Conclusions
 
