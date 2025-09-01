@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "SteamSales/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -160,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Crear nueva base": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
@@ -169,5 +170,23 @@
     }
   },
   "active": "824a2407b8b5b0ea",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "README.md",
+    "SteamSales/README.md",
+    "SteamSales/images/Summary.gif",
+    "SteamSales/images/SteamSales.mp4",
+    "SteamSales/images/d_p4.png",
+    "SteamSales/images/d_p3.png",
+    "SteamSales/images/d_p2.png",
+    "SteamSales/images/d_p1.png",
+    "SteamSales/data/steam_sales.csv",
+    "UberDataAnalytics/data/ncr_ride_bookings.csv",
+    "NetflixStockPrice/data/Netflix_stock_data.csv",
+    "MobileGameInAppPurchases/data/mobile_game_inapp_purchases.csv",
+    "USHouseSales/data/us_house_Sales_data.csv",
+    "UberDataAnalytics/themes/uber.json",
+    "SteamSales/themes/steam.json",
+    "USHouseSales/data",
+    "USHouseSales/themes"
+  ]
 }
