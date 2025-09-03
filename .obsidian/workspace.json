@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "SteamSales/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -171,8 +171,8 @@
   },
   "active": "299d19695fdad6dd",
   "lastOpenFiles": [
-    "SteamSales/README.md",
     "README.md",
+    "SteamSales/README.md",
     "UberDataAnalytics/README.md",
     "UberDataAnalytics/images/d3.png",
     "UberDataAnalytics/images/d2.png",
