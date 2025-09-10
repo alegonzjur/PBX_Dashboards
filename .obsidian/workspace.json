@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "299d19695fdad6dd",
+            "id": "bdf1dc8134c03bc3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SteamSales/README.md",
+                "file": "Diabetes/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -169,24 +169,26 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "299d19695fdad6dd",
+  "active": "bdf1dc8134c03bc3",
   "lastOpenFiles": [
-    "README.md",
+    "Diabetes/image/d3.png",
+    "Diabetes/image/d2.png",
+    "Diabetes/image/d1.png",
+    "ShoppingTrends/README.md",
+    "USHouseSales/README.md",
     "SteamSales/README.md",
+    "ShoppingTrends/image.png",
+    "ShoppingTrends/image/d3.png",
+    "ShoppingTrends/image/d2.png",
+    "ShoppingTrends/image/d1.png",
+    "ShoppingTrends/image/d4.png",
+    "README.md",
     "UberDataAnalytics/README.md",
     "UberDataAnalytics/images/d3.png",
     "UberDataAnalytics/images/d2.png",
     "UberDataAnalytics/images/d1.png",
     "MobileGameInAppPurchases/README.md",
-    "MobileGameInAppPurchases/images/d6.png",
-    "MobileGameInAppPurchases/images/d5.png",
-    "MobileGameInAppPurchases/images/d4.png",
-    "MobileGameInAppPurchases/images/d3.png",
-    "MobileGameInAppPurchases/images/d2.png",
-    "MobileGameInAppPurchases/images/d1.png",
     "NetflixStockPrice/README.md",
-    "NetflixStockPrice/images/d2.png",
-    "USHouseSales/README.md",
     "data.md",
     "SteamSales/images/SteamSales.mp4",
     "SteamSales/data/steam_sales.csv",
